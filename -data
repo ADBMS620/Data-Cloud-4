@@ -1,0 +1,11 @@
+- title: "Advanced Data Structures"
+  description: "Learn about Trees, Graphs, and Hashing techniques."
+  link: "/courses/data-structures"
+
+- title: "Algorithms"
+  description: "Explore sorting, searching, and dynamic programming."
+  link: "/courses/algorithms"
+
+- title: "Machine Learning"
+  description: "Understand regression, classification, and deep learning."
+  link: "/courses/machine-learning"
