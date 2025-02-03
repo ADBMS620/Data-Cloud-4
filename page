@@ -1,0 +1,16 @@
+---
+layout: default
+title: "Courses"
+---
+
+<h1 class="title">Courses</h1>
+<div class="content">
+  <ul>
+    {% for course in site.data.courses %}
+      <li>
+        <h2><a href="{{ course.link }}">{{ course.title }}</a></h2>
+        <p>{{ course.description }}</p>
+      </li>
+    {% endfor %}
+  </ul>
+</div>
